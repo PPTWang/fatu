@@ -2,7 +2,7 @@
 title: 杉麻李沙 Arisa Sugi 写真集
 date: 2026-11-14 23:19:08
 tags: 杉麻李沙
-featured_image: /img/2026111401.jpg
+cover: /img/2026111401.jpg
 ---
 ## 简介：
 杉麻李沙（杉ありさ），1989年1月6日出生于东京都 ，演员、模特，所属事务所为LDH JAPAN 。
