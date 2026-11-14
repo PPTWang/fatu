@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: True
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -98,7 +98,19 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: nexmoe
 
+# _config.yml
+r2_media:
+  enable: true
+  delete_stale: true                  # 可选：自动删除 R2 中本地已不存在的文件
+  bucket: fatu            # 你的 R2 存储桶名称
+  endpoint: https://f8ffccb4bf651fabd43c4847b600b909.r2.cloudflarestorage.com  # R2 的 S3 Endpoint
+  public_base_url: https://r2.fatu.cn  # R2 的公开访问域名（自定义域名或 r2.dev 地址）
+  key_prefix: blog                    # 可选：上传到 R2 中的路径前缀
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  - type: r2-media
+  - type: git
+    repo: git@github.com:user/user.github.io.git
+    branch: main
