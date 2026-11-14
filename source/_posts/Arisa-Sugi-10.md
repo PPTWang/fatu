@@ -3,6 +3,7 @@ title: 杉麻李沙 Arisa Sugi 写真集
 date: 2026-11-14 23:19:08
 tags: 杉麻李沙
 ---
+## 简介：
 杉麻李沙（杉ありさ），1989年1月6日出生于东京都 ，演员、模特，所属事务所为LDH JAPAN 。
 2010年，参演电视剧《Enzeru banku: Tenshoku dairinin》 。2015年，参演电视剧《福冈恋爱白书10》 。2016年，参演舞台剧《黑子的篮球》 。2017年10月22日，与EXILE成员USA入籍结婚 。2018年9月20日，宣布已怀孕 。2019年2月18日，儿子诞生 。此外，她还参演过《LOVE理論》《黑子的篮球·终极一战》《くだまき八兵衛X》等影视作品  ，以及舞台剧《黑子的篮球》IGNITE-ZONE 。
 <table>
@@ -39,7 +40,7 @@ tags: 杉麻李沙
 [下载地址2](https://www.mediafire.com/file/5x5zc8oo68uirrk/Arisa+Sugi_10.rar/file)，该下载空间由mediafire提供，[免费获取同款10G](https://www.mediafire.com/?p8ezbpb)
 [下载地址3](https://send.now/79g9fw6n9nsw)，该下载空间由send.now提供。
 
-精彩预览：
+## 精彩预览：
 {% gallery %}
 ![1](ar001.jpg)
 ![1](ar002.jpg)
