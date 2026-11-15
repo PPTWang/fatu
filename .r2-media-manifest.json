@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": {
+    "blog/Arisa-Sugi-10/ar001.jpg": {
+      "hash": "ebed716a3f4f6913881d1c55bd9e9d8f6c06076601d6cc295ee74a177d6658e0",
+      "size": 254803,
+      "updated_at": "2026-11-15T01:15:43.931Z"
+    },
+    "blog/Arisa-Sugi-10/ar002.jpg": {
+      "hash": "04b691b999dc98aac0711b0cd98cbabc236b9cc1c903ac1893521eaac2cdaac5",
+      "size": 449496,
+      "updated_at": "2026-11-15T01:15:44.690Z"
+    },
+    "blog/Arisa-Sugi-10/ar003.jpg": {
+      "hash": "95d4965b2b1200faf74381b16524827bdb4b37d9b87fa31d66ab5337df0555a1",
+      "size": 215823,
+      "updated_at": "2026-11-15T01:15:46.598Z"
+    },
+    "blog/Arisa-Sugi-10/ar004.jpg": {
+      "hash": "a4c41a8b9a55c945cd12ba98894442b23f19ea5698b69dccbc85df7544b082da",
+      "size": 279840,
+      "updated_at": "2026-11-15T01:15:47.507Z"
+    },
+    "blog/Arisa-Sugi-10/ar005.jpg": {
+      "hash": "1d2562061e0bf28c4d3be999f4b9ea0ac4b74859596ac7501e21336ce86694e9",
+      "size": 569651,
+      "updated_at": "2026-11-15T01:15:48.386Z"
+    },
+    "blog/Arisa-Sugi-10/ar006.jpg": {
+      "hash": "0f08a39d14742f6d437ad3d74d1bead273771aebfedbd7aaaad33e713aafb2bf",
+      "size": 370851,
+      "updated_at": "2026-11-15T01:15:49.238Z"
+    },
+    "blog/Arisa-Sugi-10/ar007.jpg": {
+      "hash": "0754c68bb553fda1d5d68ac9369df011ef0f4c3fb9fbf2b92eaf237b978b2930",
+      "size": 303386,
+      "updated_at": "2026-11-15T01:15:50.116Z"
+    },
+    "blog/Arisa-Sugi-10/ar008.jpg": {
+      "hash": "cd261cb51920787d3fea35fc0a35cded78c9bb961ff70cbdc0d498047aa4e429",
+      "size": 582461,
+      "updated_at": "2026-11-15T01:15:50.905Z"
+    },
+    "blog/Arisa-Sugi-10/ar009.jpg": {
+      "hash": "a09f3c62e0f267dc1986cf9c5a8baff3ac8e1f0115aa2229d04d1b99d557c5ea",
+      "size": 647934,
+      "updated_at": "2026-11-15T01:15:51.840Z"
+    },
+    "blog/Arisa-Sugi-10/ar010.jpg": {
+      "hash": "f98406727802521a82b101bc4ca325d4f102cd97e267f783790d9d950782bf66",
+      "size": 476970,
+      "updated_at": "2026-11-15T01:15:52.629Z"
+    }
+  }
+}

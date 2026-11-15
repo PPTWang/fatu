@@ -37,9 +37,9 @@ cover: /img/2026111401.jpg
 </table>
 
 ## 下载套图：
-[下载地址1](https://e.pcloud.link/publink/show?code=XZAPbX7ZJbJ9VzaG4CyNpTDVsWkHH0xDhpDk)，该下载空间由pcloud提供，[免费获取同款10G pcloud网盘](https://e.pcloud.com/#page=register&invite=h1huZKVnQT7)
-[下载地址2](https://www.mediafire.com/file/5x5zc8oo68uirrk/Arisa+Sugi_10.rar/file)，该下载空间由mediafire提供，[免费获取同款10G mediafire网盘](https://www.mediafire.com/?p8ezbpb)
-[下载地址3](https://send.now/79g9fw6n9nsw)，该下载空间由send.now提供。
+- [下载地址1](https://e.pcloud.link/publink/show?code=XZAPbX7ZJbJ9VzaG4CyNpTDVsWkHH0xDhpDk)，该下载空间由pcloud提供，[免费获取同款10G pcloud网盘](https://e.pcloud.com/#page=register&invite=h1huZKVnQT7)
+- [下载地址2](https://www.mediafire.com/file/5x5zc8oo68uirrk/Arisa+Sugi_10.rar/file)，该下载空间由mediafire提供，[免费获取同款10G mediafire网盘](https://www.mediafire.com/?p8ezbpb)
+- [下载地址3](https://send.now/79g9fw6n9nsw)，该下载空间由send.now提供。
 
 ## 精彩预览：
 {% gallery %}

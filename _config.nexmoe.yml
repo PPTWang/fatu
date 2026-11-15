@@ -107,7 +107,7 @@ widgets:
       enable: true
       options: 
         widgetLink: #链接组件
-            - title: 折影轻梦
+            - title: 发图网
               img: https://r2.fatu.cn/Hexo/img/0.jpg
               link : https://www.jiawo8.com
 
