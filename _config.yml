@@ -111,6 +111,9 @@ r2_media:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: r2-media
-  - type: git
     repo: git@github.com:PPTWang/fatu.git
     branch: main
+
+marked:
+  prependRoot: true
+  postAsset: true
