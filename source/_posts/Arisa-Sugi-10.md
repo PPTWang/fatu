@@ -42,15 +42,14 @@ cover: /img/2026111401.jpg
 - [下载地址3](https://send.now/79g9fw6n9nsw)，该下载空间由send.now提供。
 
 ## 精彩预览：
-{% gallery %}
-![1](ar001.jpg)
-![1](ar002.jpg)
-![1](ar003.jpg)
-![1](ar004.jpg)
-![1](ar005.jpg)
-![1](ar006.jpg)
-![1](ar007.jpg)
-![1](ar008.jpg)
-![1](ar009.jpg)
-![1](ar010.jpg)
-{% endgallery %}
+
+![杉麻李沙写真](ar001.jpg)
+![杉麻李沙写真](ar002.jpg)
+![杉麻李沙写真](ar003.jpg)
+![杉麻李沙写真](ar004.jpg)
+![杉麻李沙写真](ar005.jpg)
+![杉麻李沙写真](ar006.jpg)
+![杉麻李沙写真](ar007.jpg)
+![杉麻李沙写真](ar008.jpg)
+![杉麻李沙写真](ar009.jpg)
+![杉麻李沙写真](ar010.jpg)
