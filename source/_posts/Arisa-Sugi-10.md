@@ -34,7 +34,7 @@ cover: /img/2026111401.jpg
       <td>10</td>
     </tr>
         <tr>
-      <th scope="row">本文预览图片数</th>
+      <th scope="row">套图总图片数</th>
       <td>10</td>
     </tr>
   </tbody>
