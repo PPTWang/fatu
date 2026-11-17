@@ -30,8 +30,12 @@ cover: /img/2026111401.jpg
       <td>Arisa Sugi</td>
     </tr>
         <tr>
-      <th scope="row">本文预览图片数/套图图片总数</th>
-      <td>10/10</td>
+      <th scope="row">本文预览图片数</th>
+      <td>10</td>
+    </tr>
+        <tr>
+      <th scope="row">本文预览图片数</th>
+      <td>10</td>
     </tr>
   </tbody>
 </table>
