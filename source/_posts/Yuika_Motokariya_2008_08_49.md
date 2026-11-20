@@ -23,7 +23,7 @@ cover: https://r2.fatu.cn/blog/Yuika_Motokariya_2008_08_31/my027.jpg
     </tr>
         <tr>
       <th scope="row">三围</th>
-      <td>（未知）</td>
+      <td>（未知）(<a href='#twikoo'>留言提供资料</a>)</td>
     </tr>
         <tr>
       <th scope="row">套图名称</th>
