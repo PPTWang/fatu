@@ -5,3 +5,6 @@ db.json
 node_modules/
 public/
 .deploy*/
+twikoo/
+pnpm-lock.yaml
+pnpm-workspace.yaml
