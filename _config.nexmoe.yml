@@ -134,7 +134,17 @@ slotSidebar: |
 
 # 评论框插槽
 slotComment: | 
-  请在你的配置文件中设置 slotComment
+  <div id="twikoo"></div>
+  <script src="https://cdn.jsdelivr.net/npm/twikoo@1.7.7/dist/twikoo.min.js"></script>
+  <script>
+    twikoo.init({
+      envId: 'https://twikoo.ppt-is-best-01-f8f.workers.dev', // 替换为你的地址
+      el: '#twikoo',
+      // 新增以下两行
+      requiredFields: ['nick'],
+      displayedFields: ['nick', 'mail']
+    });
+  </script>
 
 slotCopyright: | 
   <strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可
