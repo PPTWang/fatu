@@ -117,3 +117,8 @@ deploy:
 marked:
   prependRoot: true
   postAsset: true
+
+archive_generator:
+  per_page: 10
+  yearly: true
+  monthly: true

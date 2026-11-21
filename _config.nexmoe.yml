@@ -24,17 +24,19 @@ customStyles:
 # 附加图标库 使用说明：https://docs.nexmoe.com/config/icon
 iconlib: # //at.alicdn.com/t/font_1038733_0xvrvpg9c0r.css
 
+
 menu:
     回到首页:
         - /
         - icon-home
     文章归档:
-        - /archive.html
+        - /archives/
         - icon-container
-    我的朋友:
-        - /PY.html
     给我赞助:
         - https://www.jiawo8.com
+        - icon-coffee
+    天下无烟:
+        - https://www.sipkt.com
         - icon-coffee
     关于博主:
         - https://www.jiawo8.com
@@ -125,7 +127,7 @@ slotHead: |
   </script>
 
 slotFooter: | 
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2058306854838448" crossorigin="anonymous"></script>
+  
 
 # 自定义侧边栏尾部内容
 slotSidebar: |
@@ -140,14 +142,21 @@ slotComment: |
     twikoo.init({
       envId: 'https://twikoo.fatu.cn', // 替换为你的地址
       el: '#twikoo',
-      // 新增以下两行
-      requiredFields: ['nick'],
-      displayedFields: ['nick', 'mail']
     });
   </script>
 
 slotCopyright: | 
-  <strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可
+  <strong>版权声明：</strong>图片来自互联网。本站仅作转载。如有疑问请在下方留言告知。
 
 slotArticleEnd: | 
-  <p>谢谢访问！</p>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2250060433025354"
+     crossorigin="anonymous"></script>
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-2250060433025354"
+     data-ad-slot="6849779724"></ins>
+  <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
