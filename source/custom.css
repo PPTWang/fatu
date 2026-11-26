@@ -1,0 +1,76 @@
+/* 推荐区域整体 */
+.hexo-article-recommender-section {
+  margin: 40px 0;
+}
+.hexo-article-recommender-section-divider {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 25px;
+}
+.hexo-article-recommender-divider-line {
+  flex: 1;
+  height: 1px;
+  background: #e0e0e0;
+}
+.hexo-article-recommender-divider-text {
+  font-size: 16px;
+  font-weight: 600;
+  color: #555;
+  white-space: nowrap;
+}
+
+/* 卡片网格布局：控制列数和间距 */
+.hexo-article-recommender-posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); /* 列宽可调 */
+  gap: 20px;
+}
+
+/* 单个卡片：长宽由封面图的宽高比决定 */
+.hexo-article-recommender-card {
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.hexo-article-recommender-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+}
+
+.hexo-article-recommender-card-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+/* 头图容器：通过 padding-top 控制宽高比，16:9 即 56.25% */
+.hexo-article-recommender-cover {
+  width: 100%;
+  padding-top: 56.25%; /* 16:9；如果想让卡片更方，可改为 75% (4:3) 或 100% (1:1) */
+  position: relative;
+  overflow: hidden;
+  background: #f5f5f5;
+}
+.hexo-article-recommender-cover img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* 保证图片填满容器且不变形 */
+}
+
+/* 标题：只显示一行，超出省略 */
+.hexo-article-recommender-title {
+  padding: 12px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.4;
+  color: #333;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
