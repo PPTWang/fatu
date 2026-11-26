@@ -1,0 +1,24 @@
+<% if (posts.length) { %>
+<div class="hexo-article-recommender-section">
+  <div class="hexo-article-recommender-section-divider">
+    <div class="hexo-article-recommender-divider-line"></div>
+    <div class="hexo-article-recommender-divider-text">
+      <span><%= recommendedTitle %></span>
+    </div>
+  </div>
+  <div class="hexo-article-recommender-posts">
+    <% posts.forEach((link) => { %>
+      <div class="hexo-article-recommender-card">
+        <a href="<%- url_for(link.path) %>" class="hexo-article-recommender-card-link">
+          <% if (link.cover) { %>
+            <div class="hexo-article-recommender-cover">
+              <img src="<%- url_for(link.cover) %>" alt="<%= link.title %>" loading="lazy">
+            </div>
+          <% } %>
+          <div class="hexo-article-recommender-title"><%= link.title %></div>
+        </a>
+      </div>
+    <% }); %>
+  </div>
+</div>
+<% } %>
