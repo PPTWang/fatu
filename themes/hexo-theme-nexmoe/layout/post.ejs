@@ -34,7 +34,8 @@
   recommendedTitle: cfg.recommended_title || '相关推荐'
   }; %>
   <%- partial('_partial/article-recommender', _ar_data) %>
-  
+  <p id="debug-recommender">DEBUG: 推荐区域已执行</p>
+
   <% if (page.comments){ %>
       <div class="nexmoe-post-footer">
           <%- theme.slotComment %>
