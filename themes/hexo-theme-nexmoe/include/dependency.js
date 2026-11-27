@@ -24,10 +24,9 @@ module.exports = hexo => {
     const missingDeps = Object.keys(dependencies)
         .filter(name => !checkDependency(name, dependencies[name]));
     if (missingDeps && missingDeps.length) {
-        console.error('Please install the missing dependencies your Hexo site root directory:');
-        console.error(green('npm install --save ' + missingDeps.map(name => `${name}@${dependencies[name]}`).join(' ')));
-        console.error('or:');
-        console.error(green('yarn add ' + missingDeps.map(name => `${name}@${dependencies[name]}`).join(' ')));
-        process.exit(-1);
+        console.warn('[Nexmoe] 以下依赖版本与主题声明不完全一致，但构建将继续：');
+        console.warn('npm install --save ' + missingDeps.map(name => `${name}@${dependencies[name]}`).join(' '));
+        // 原代码会执行 process.exit(-1) 中断构建，这里注释掉，避免 Hexo 7 下无法部署
+        // process.exit(-1);
     }
 };

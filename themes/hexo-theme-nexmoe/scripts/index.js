@@ -24,4 +24,4 @@ require('../include/config')(hexo);
 /**
  * Register Hexo extensions and remove Hexo filters that could cause OOM
  */
-// require('../include/register')(hexo);
+require('../include/register')(hexo);
